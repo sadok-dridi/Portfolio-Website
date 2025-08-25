@@ -251,10 +251,10 @@ body{
     background: transparent;
     transition: 3s;
 }
-/*.home-imgHover:hover{
+.home-imgHover:hover{
     background: #081B29;
     opacity: .8;
-}*/
+}
 .home-imgHover::after {
     content: '';
     position: absolute;
